@@ -19,7 +19,7 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
   background-image: url(../images/indiana.jpeg);
-  background-size: cover;
+  background-size: small;
 }
 article,
 aside,
@@ -60,10 +60,12 @@ a:link {
 
 .li a {
   color: black;
+  text-shadow: 5px 5px white;
    }
 
 a:visited {
   color: black;
+  text-shadow: 5px 5px white;
 }
 
 a:hover {
@@ -96,13 +98,29 @@ h1 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
+  color: black;
+  /* text-shadow: 10px 10px 10px white; */
+  backdrop-filter: blur(10px);
   font-family: 'Chicle', cursive;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
 }
+
+box {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+  line-height: 1;
+ -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  max-width: 50%;
+  max-height: 50%;
+  padding: 20px 40px;
+}
+
 mark {
   background-color: #ff0;
   color: #000;

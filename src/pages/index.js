@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
   <br></br>
   <br></br>
-  <h1><Link to="/page-2/">Klikkaa tätä!</Link><br /></h1>
+  <h1><Link to="/page-2/" class="box">Klikkaa tätä!</Link><br /></h1>
   </Layout>
 )
 
