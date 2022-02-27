@@ -1,3 +1,7 @@
+Tärkeä projekti rakkaan hankilön synttäreiden kunniaksi - tehty puolessa päivässä  
+joten voisi parantaa vaikka kuinka paljon ja pääsin oikeastaan vasta vauhtiin  
+CSS:n kanssa. Tulipahan harjoiteltua boxeja, blur effektiä, pyöreitä kulmia ym. :)
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
