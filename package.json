@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "gatsby": "^4.8.0",
+    "gatsby-background-image": "^1.6.0",
     "gatsby-plugin-gatsby-cloud": "^4.8.1",
     "gatsby-plugin-image": "^2.8.1",
     "gatsby-plugin-sharp": "^4.8.1",
