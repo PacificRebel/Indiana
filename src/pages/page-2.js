@@ -7,7 +7,7 @@ const SecondPage = () => (
   <Layout>
     <br></br>
     <br></br>
-    <h2 class="box">Paljon onnea isi 77v!!! <span role="img" aria-label="Smiley"> 😊</span> <span role="img" aria-label="Hearts">❤️</span></h2>
+    <h2 class="box">Paljon onnea isi 77v!!! </h2>
 
 
     <Link to="/" class="box">Takaisin kotisivulle</Link>
