@@ -1,22 +1,14 @@
-import * as React from "react";
-import pageStyles from "../styles/global.scss";
-import headingStyles from "../styles/global.scss";
-import headingAccentStyles from "../styles/global.scss";
+import React from "react"
+import { Link } from "gatsby"
 
-const IndexPage = () => {
-  return (
-    <main style={pageStyles}>
-      <title>Home Page</title>
-      <h1 style={headingStyles}>
-        Klikkaa tätä!
-        <br />
-        <span style={headingAccentStyles}> </span>
-        <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
-        </span>
-      </h1>
-    </main>
-  )
-}
+import Layout from "../components/layout"
+
+const IndexPage = () => (
+  <Layout>
+  <br></br>
+  <br></br>
+  <h1><Link to="/page-2/">Klikkaa tätä!</Link><br /></h1>
+  </Layout>
+)
 
 export default IndexPage
