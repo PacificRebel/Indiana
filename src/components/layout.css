@@ -19,7 +19,7 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
   background-image: url(../images/indiana.jpeg);
-  background-size: 768px 1024px;
+  background-size: 320px 568px;
 }
 article,
 aside,
@@ -103,6 +103,7 @@ h1 {
   /* backdrop-filter: blur(10px); */
   font-family: 'Chicle', cursive;
   font-weight: bold;
+  font-size: 100px;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;

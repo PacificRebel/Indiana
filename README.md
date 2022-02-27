@@ -2,6 +2,29 @@ Tärkeä projekti rakkaan hankilön synttäreiden kunniaksi - tehty puolessa pä
 joten voisi parantaa vaikka kuinka paljon ja pääsin oikeastaan vasta vauhtiin  
 CSS:n kanssa. Tulipahan harjoiteltua boxeja, blur effektiä, pyöreitä kulmia ym. :)
 
+From: https://developer.apple.com/forums/thread/71211  
+
+So here is my unofficial chart: (using portrait sizes)  
+
+
+Devices image size file name
+
+iphone 4s (@2x) 640 x 960 ???
+
+iphone 5 (@???x) 640 x 1136 ???
+
+iphone 6/7 (@2x) 750 x 1334 background@2x.png
+
+iphone 6+/7+ (@3x) 1242 x 2208 background@3x.png
+
+iphone SE (@???x) 640 x 1136 ???
+
+ipad2 / ipad mini (@1x) 768 x 1024 ???
+
+ipad3+ / ipad mini 2+ (@???x) 1536 x 2048 ???
+
+ipad pro (@???x) 2048 x 2732 ???
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
