@@ -7,10 +7,10 @@ const SecondPage = () => (
   <Layout>
     <br></br>
     <br></br>
-    <h1>Paljon onnea isi 77v!!! <span role="img" aria-label="Smiley"> 😊</span> <span role="img" aria-label="Hearts">❤️</span></h1>
+    <h1 class="box">Paljon onnea isi 77v!!! <span role="img" aria-label="Smiley"> 😊</span> <span role="img" aria-label="Hearts">❤️</span></h1>
 
 
-    <Link to="/">Back to the home page</Link>
+    <Link to="/" class="box">Takaisin kotisivulle</Link>
   </Layout>
 )
 

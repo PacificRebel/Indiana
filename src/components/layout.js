@@ -19,13 +19,13 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer style={{
+        <footer class="box" style={{
           marginTop: `2rem`
         }}>
             © {new Date().getFullYear()}, PacificRebel Productions
         </footer>
       </div>
-  
+
     </div>
   )
 }
