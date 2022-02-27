@@ -19,7 +19,7 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
   background-image: url(../images/indiana.jpeg);
-  background-size: small;
+  background-size: 768px 1024px;
 }
 article,
 aside,
